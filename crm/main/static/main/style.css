@@ -1,0 +1,13 @@
+header h1 {
+  background: url('CRM.png') left no-repeat,
+        url('CRM.png') right no-repeat;
+  width: 100%;
+  height: 100px;
+  text-align: center;
+}
+
+.root {
+    font-size: larger;
+}
+
+
